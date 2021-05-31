@@ -34,3 +34,4 @@ fiftyone.left_node = fourtysix
 
 print(root_node.get_node(46).value)
 
+# Todo: Create a more organized way when creating a tree
