@@ -14,3 +14,7 @@ class Node:
             node = node.right_node if node.value < value_to_find else node.left_node
 
         return node
+
+    # def add_node(self, node):
+    #     side_to_add = self.right_node if node.value < self.value else self.left_node
+    #     side_to_add = node
